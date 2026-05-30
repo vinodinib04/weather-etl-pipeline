@@ -1,0 +1,6 @@
+requests
+pandas
+pymysql
+sqlalchemy
+python-dotenv
+schedule
